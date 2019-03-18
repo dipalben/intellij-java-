@@ -1,2 +1,2 @@
-# intellij-java-
+# intel-
 java class programs
